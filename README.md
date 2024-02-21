@@ -1,1 +1,1 @@
-# curly-carnival
+# Customer Satisfaction MLOPs Project
